@@ -1,0 +1,17 @@
+Ulke,Cinsiyet,Gelir,Yas,MemTip
+,Kadın,20000,,1
+,Erkek,15000,32,2
+İngiltere,,23000,,3
+Turkiye,Kadın,20000,45,1
+Fransa,Erkek,15000,23,2
+,NaN,23000,12,3
+Almanya,Kadın,20000,45,1
+Turkiye,Erkek,18000,,2
+İngiltere,NaN,23000,12,3
+Almanya,Kadın,NaN,45,1
+Avusturya,Kadın,15000,46,2
+İngiltere,NaN,23000,,3
+İspanya,Erkek,22000,32,1
+,Erkek,22000,32,1
+İspanya,Erkek,22000,32,1
+,Erkek,22000,45,1
