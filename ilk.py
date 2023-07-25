@@ -1,7 +1,7 @@
 liste = ["Cevaplar","Serkan","Gül","Saniye","Sinan","Hatice","Tevfik","Mehmed","Şengül"]
 import shutil
 import os
-fileName = "ornek2.ipynb"
+fileName = "02_Manipulation.ipynb"
 for item in liste:
     if not os.path.exists(os.path.join("Exercises",item)):
         os.mkdir(os.path.join("Exercises",item))
